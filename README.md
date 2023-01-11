@@ -49,3 +49,5 @@ The data is organized as a list of documents. Each document is a dictionary that
 • Test set : https://drive.google.com/file/d/1PiZka4TJQ__3AGPCHfchPkTT4SfuDAS0/view?usp=sharing
 
 • Model : https://drive.google.com/file/d/12bkyIBwyNJWfY3hfi-9KBqwWwA2BCwZI/view?usp=sharing
+
+**Change the file destinations in Code.ipynb accordingly
